@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning, DataScience, Deep Learning, OOP
-- 📫 How to reach me t.me/doom_stayz
+- 📫 How to reach me kazemirov.v.a@yandex.ru
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
